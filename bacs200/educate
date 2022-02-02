@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+  
+  <style>
+			body {
+				background-color: bisque;
+			}
+			h1 {
+				text-align: center;
+			}
+			h2 {
+				text-align: center;
+			}
+			h3 {
+				text-align: center;
+			}
+			h4 {
+				text-align: center;
+			}
+		</style>
+    
+<meta charset="UTF-8">
+      <title>Educational videos on Elon Musk</title>
+  </head>
+  <body>
+      <h1>Educational videos on Elon Musk</h1>
+ <p>On the inspiration page, I had mentioned that Elon is who I look up to. Let me show you a couple ted talks on Elon that show how smart he works.</p>
+           
+           <!-- First site -->
+            <h2>
+        Elon Musk - The mind behind Tesla, SpaceX, and Solar City.
+            </h2>
+            <iframe width="100%" height="500" src="https://www.ted.com/talks/elon_musk_the_mind_behind_tesla_spacex_solarcity"></iframe>
+           
+           <!-- Second site -->
+            <h2>
+        Elon Musk - The future we're building -- and boring.
+            </h2>
+            <iframe width="100%" height="500" src="https://www.ted.com/talks/elon_musk_the_future_we_re_building_and_boring"></iframe>
+        <h1> I would also like to show some videos I think can be very benificial that come from an aniimated youtube channel. See below.<h1>
+           <!-- First RSA -->
+            <h2>
+       The secret powers of time.
+            </h2>
+            <iframe width="100%" height="500" src="https://www.youtube.com/watch?v=A3oIiH7BLmg&list=PL39BF9545D740ECFF&index=16"></iframe>
+           
+           <!-- Second RSA -->
+            <h2>
+        Crises of Capitalism
+            </h2>
+            <iframe width="100%" height="500" src="https://www.youtube.com/watch?v=qOP2V_np2c0&list=PL39BF9545D740ECFF&index=14"></iframe>
+     
+
+    </body>
+    
+</html>
