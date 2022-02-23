@@ -1,1 +1,1 @@
-# jakewoodrumBEARS.github.io for all classes involving software or web development
+# (BACS200 - 025 = jakewoodrumBEARS.github.io
