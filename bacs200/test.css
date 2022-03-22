@@ -1,0 +1,69 @@
+a:link,
+        a:visited {
+            background-color: #f44336;
+            color: white;
+            padding: 15px 25px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        table,
+        th,
+        td {
+            border: 1px solid white;
+        }
+
+        .center {
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        body {
+            background-color: maroon;
+            color: white;
+        }
+
+        h1 {
+            text-align: center;
+            color: white;
+        }
+
+        h2 {
+            text-align: center;
+            color: white;
+        }
+
+        h3 {
+            text-align: center;
+            color: white;
+        }
+
+        h4 {
+            text-align: center;
+            color: white;
+        }
+
+        p {
+            text-align: center;
+            color: white;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f44336;
+            text-align: center;
+            color: white;
+        }
+
+        th:nth-child(even),
+        td:nth-child(even) {
+            background-color: #f44336;
+            text-align: center;
+            color: white;
+        }
+
+        tr:nth-child(odd) {
+            background-color: #f44336;
+            text-align: center;
+            color: white;
+}
