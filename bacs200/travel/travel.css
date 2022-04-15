@@ -1,0 +1,53 @@
+body {
+    background-image: linear-gradient(to left, rgba(16, 17, 17, 0), rgb(113, 164, 184));
+    color: rgb(0, 0, 0);
+    margin: 1in;
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 5px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+h2 {
+    text-align: center;
+    color: rgb(252, 250, 250);
+}
+
+h3 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+h4 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+h5 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+ul {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    display: inline;
+    display: table;
+    margin: 0 auto;
+}
+
+.button {
+    text-align: center;
+}
+
+a {
+    text-align: center;
+}
